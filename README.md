@@ -1,8 +1,8 @@
 # Starter Web Repo
 
-isoadfiasodfi
+simple website
 ## Introduction
-
+the intro
 ## Purpose
 
 ## Deployment
