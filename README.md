@@ -9,5 +9,6 @@ there is no purpose
 how to deploy
 ## How to contribute
 This repository is for showing how Git and GitHub work
-
+## Copyright
+allez
 Sample website with plenty of files for demos
